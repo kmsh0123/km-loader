@@ -1,0 +1,22 @@
+{
+  "name": "km-loader",
+  "version": "1.0.0",
+  "description": "Loader Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmsh0123/km-loader.git"
+  },
+  "keywords": [
+    "komauk-loader"
+  ],
+  "author": "ko-mauk-thein-kha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmsh0123/km-loader/issues"
+  },
+  "homepage": "https://github.com/kmsh0123/km-loader#readme"
+}
